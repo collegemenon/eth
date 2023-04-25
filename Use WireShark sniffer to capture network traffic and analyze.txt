@@ -1,0 +1,17 @@
+Note : Disable any antivirus or defender program of your system to avoid installation errors.
+
+1) Download wireshark from the given link : https://www.wireshark.org/download.html
+2) Install and open Wireshark.
+3) Go to capture and select Interface option.
+4) In capture Interface, Select local area connection and click on start.
+5) The source destination and protocols of the packets in the LAN network will be displayed.
+6) Open a website "http://www.techpanda.org/index.php" in a new window and enter the username and password.
+
+ The login address is admin@google.com, and the password is Password2010 and submit.
+ 
+7) Now stop the tool and to stop recording. 
+8) Select the filter as http to make the search easier and apply.
+
+9) Search for the POST method under "Info" column where you will get ur entered credentials.
+
+Thats it for this video friends.. stay tuned..
